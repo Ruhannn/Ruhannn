@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm KamiRu</h1>
 <h3 align="center">I'm studying web development🖥️</h3>
 
-<img align=right alt="uwu" width="400" src=https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif>
+<img align=right alt="uwu" width="400" length="300" src=https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif>
 
 
 
 - 🔭 I'm currently pursuing **my studies.**
 
-- 🌱 I’m currently learning **Html,Css**
+- 🌱 I’m currently learning **Html,CSS**
 
 - 🤝 I’m looking for help with **Coding**
 
