@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kamiayaka09@gmail.com**
 
-- ⚡ Fun fact **I play Games🎮**
+- ⚡ Fun fact **I like coffee☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
