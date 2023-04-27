@@ -1,4 +1,4 @@
-![MasterHead](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+//* ![MasterHead]
 
 
 
