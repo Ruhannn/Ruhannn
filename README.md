@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KamiRu</h1>
 <h3 align="center">I'm studying web development🖥️</h3>
 
-<img align=right alt="uwu" width="400" src=https://media.tenor.com/exuPwTTU-FwAAAAC/key-click-typing.gif>
+<img align=right alt="uwu" width="400" src=https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif>
 
 
 
