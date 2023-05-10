@@ -24,5 +24,5 @@
 <a href="https://twitter.com/@ruhan_17" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=42859&format=png" alt="@ruhan_17" height="40" width="40" /></a>
 <a href="https://fb.com/ruhan.rouf.1/" target="blank"><img align="center" src="https://img.icons8.com/dusk/512/facebook-new--v2.png" alt="ruhan.rouf.1/" height="40" width="40" /></a>
 <a href="https://instagram.com/kamiruhan9/" target="blank"><img align="center" src="https://img.icons8.com/officel/480/instagram-new.png" alt="kamiruhan9/" height="40" width="40" /></a>
-<a href="https://discord.gg/wMnVvmCdPT" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/discord-new-logo.png" alt="wMnVvmCdPT" height="40" width="40" /></a>
+<a href="https://discord.gg/wMnVvmCdPT" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/discord-new-logo.png" alt="wMnVvmCdPT" height="50" width="50" /></a>
 </p>
