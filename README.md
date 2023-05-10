@@ -24,6 +24,3 @@
 <a href="https://instagram.com/kamiruhan9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamiruhan9/" height="30" width="40" /></a>
 <a href="https://discord.gg/wMnVvmCdPT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wMnVvmCdPT" height="30" width="40" /></a>
 </p>
-  
-
- <h2>uwu</h2>
