@@ -17,9 +17,14 @@
 
 - ⚡ Fun fact **I like coffee☕**
 
+
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/819191621676695563)](https://discord.com/users/819191621676695563)
+
+
+
 <h3 align="left">Connect with me:</h3>
-
-
 <p align="left">
 <a href="https://fb.com/ruhan.rouf.1/" target="blank"><img align="center" src="https://img.icons8.com/dusk/512/facebook-new--v2.png" alt="ruhan.rouf.1/" height="40" width="40" /></a>
 <a href="https://discord.gg/wMnVvmCdPT" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/discord-new-logo.png" alt="wMnVvmCdPT" height="55" width="55" /></a>
