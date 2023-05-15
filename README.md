@@ -18,12 +18,20 @@
 - ⚡ Fun fact **I like coffee☕**
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/819191621676695563?bg=282a36&hideDiscrim=true&borderRadius=30px&idleMessage=:Hi)](https://discord.com/users/819191621676695563)
 
 <h3 align="left">Connect with me:</h3>
+
+
+
 <p align="left">
 <a href="https://fb.com/ruhan.rouf.1/" target="blank"><img align="center" src="https://img.icons8.com/dusk/512/facebook-new--v2.png" alt="ruhan.rouf.1/" height="40" width="40" /></a>
-<a href="https://discord.gg/wMnVvmCdPT" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/discord-new-logo.png" alt="wMnVvmCdPT" height="55" width="55" /></a>
 <a href="https://twitter.com/@ruhan_17" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=42859&format=png" alt="@ruhan_17" height="45" width="45" /></a>
-<a href="https://instagram.com/kamiruhan9/" target="blank"><img align="center" src="https://img.icons8.com/officel/480/instagram-new.png" alt="kamiruhan9/" height="40" width="40" /></a>
-</p>
+<a href="https://discord.gg/wMnVvmCdPT" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/discord-new-logo.png" alt="wMnVvmCdPT" height="55" width="55" /></a>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/819191621676695563?bg=282a36&hideDiscrim=true&borderRadius=30px&idleMessage=:Hi)](https://discord.com/users/819191621676695563)
+  
+
+  
+
+  
+ 
