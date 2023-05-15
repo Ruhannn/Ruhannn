@@ -18,11 +18,7 @@
 - ⚡ Fun fact **I like coffee☕**
 
 
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/819191621676695563)](https://discord.com/users/819191621676695563)
-
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/819191621676695563?bg=282a36&hideDiscrim=true&borderRadius=30px$idleMessage=:Hi)](https://discord.com/users/819191621676695563)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
