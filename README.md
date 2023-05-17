@@ -5,17 +5,17 @@
 
 
 
-- 🔭 I'm currently pursuing **my studies.**
+- <img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" width="25"> I'm currently pursuing **my studies.**
 
-- 🌱 I’m currently learning **Html,CSS**
+- <img src="https://media.tenor.com/kONUON1Jea0AAAAi/brain-problem.gif" width="25">I’m currently learning **Html,CSS**
 
-- 🤝 I’m looking for help with **Coding**
+- <img src="https://media.tenor.com/NO5llQ5liBUAAAAi/ffxiv-pusheen.gif" width="25"> I’m looking for help with **Coding**
 
-- 💬 Ask me about **Anything**
+- <img src="https://media.tenor.com/UCYy8CnBm3wAAAAi/bunny-rabbit.gif" width="25"> Ask me about **Anything**
 
-- 📫 How to reach me **kamiayaka09@gmail.com**
+- <img src="https://media.tenor.com/PYdKVgVJzJEAAAAi/geocities-cute.gif" width="25"> How to reach me **kamiayaka09@gmail.com**
 
-- ⚡ Fun fact **I like coffee☕**
+- <img src="https://media.tenor.com/QS4_l26O6AcAAAAi/kitty-cheer.gif" width="25"> Fun fact **I like coffee**<img src="https://media.tenor.com/FeP5S9K0ZqIAAAAi/peach-cat.gif" width="20">
 
 
 
