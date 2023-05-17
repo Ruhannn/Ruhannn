@@ -30,7 +30,13 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/819191621676695563?bg=282a36&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/819191621676695563)
   
-<h2>My Discord</h2>
+<h2>
+  
+  
+  My Discord
+  
+</h2>  
+  
   
 
   
