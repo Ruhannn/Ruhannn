@@ -29,7 +29,7 @@
 <a href="https://twitter.com/@ruhan_17" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=42859&format=png" alt="@ruhan_17" height="45" width="45" /></a>
 <a href="https://discord.gg/wMnVvmCdPT" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/discord-new-logo.png" alt="wMnVvmCdPT" height="55" width="55" /></a>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/819191621676695563?bg=282a36&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/819191621676695563)
+[![Discord Presence](https://lanyard.kyrie25.me/api/819191621676695563?bg=282a36&imgStyle=circle&animatioanDuration=4s&waveColor=6272a4&waveSpotifyColor=1db954&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/819191621676695563)
   
 <h2>
   
