@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently pursuing **my studies.**
 
-- 🌱 I’m currently learning **Html,CSS**
+- 🌱 I’m currently learning **Js**
 
 - 🤝 I’m looking for help with **Coding**
 
