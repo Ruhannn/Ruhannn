@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">, I'm Ruhan</h1>
-<h3 align="center">I'm learning web developer🖥️</h3>
+<h3 align="center">I'm learning web development🖥️</h3>
 
 <img align=right alt="uwu" width="400" length="300" src=https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif>
 
