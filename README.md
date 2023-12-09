@@ -9,6 +9,8 @@
 &nbsp;
 <img align="right" alt="uwu" width="400" length="300" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif">
 
+&nbsp;
+
 - 🌱 I’m currently learning **Next.js and TypeScript**
 
 - 💬 Ask me about **Anything**
