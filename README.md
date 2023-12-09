@@ -52,7 +52,7 @@
 
 <h2 align="center">Technologies that I know</h2>
 
-<div style="text-align: center; margin: 20px;">
+<div align="center>
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
@@ -80,7 +80,7 @@
 
 <h2 align="center">Tools I use</h2>
 
-<div style="text-align: center; margin: 20px;">
+<div align="center">
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo" />
@@ -98,26 +98,10 @@
 
 ## Current Activities
 
-<style>
-  @keyframes waveAnimation {
-    0% {
-      transform: translateY(0);
-    }
-    50% {
-      transform: translateY(-5px);
-    }
-    100% {
-      transform: translateY(0);
-    }
-  }
-  .imageWrapper:hover {
-    animation: waveAnimation 1s infinite;
-  }
-</style>
 
-<div class="imageWrapper">
-  <img src="https://lanyard.kyrie25.me/api/819191621676695563?bg=282a36&imgStyle=circle&waveColor=6272a4&waveSpotifyColor=1db954&hideDiscrim=true&borderRadius=30px&hideBadges=true&useDisplayName=false&idleMessage=%22I%27m%20not%20currently%20doing%20anything!%22" alt="Discord Presence">
-</div>
+
+[![Discord Presence](https://lanyard.kyrie25.me/api/819191621676695563?bg=282a36&imgStyle=circle&animatioanDuration=4s&waveColor=6272a4&waveSpotifyColor=1db954&hideDiscrim=true&borderRadius=30px&hideBadges=true&useDisplayName=false&idleMessage=%22I%27m%20not%20currently%20doing%20anything!%22)](https://discord.com/users/819191621676695563)
+
 
 </div>
 
