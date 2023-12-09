@@ -1,11 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=120" alt="Profile Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&fontSize=40&height=300&descAlignY=62&animation=fadeIn&text=Hey%20,%20I%27m%20Ruhan&desc=%20I%27m%20a%20frontend%20developer%20%F0%9F%96%A5%EF%B8%8F" alt="Profile Banner">
 </div>
 
 
-<h1 align="center">Hey <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">, I'm Ruhan</h1>
-
-<h3 align="center">I'm a frontend developer 🖥️</h3>
 &nbsp;
 <img align="right" alt="uwu" width="400" height="300" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif">
 
