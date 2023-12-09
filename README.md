@@ -1,4 +1,7 @@
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=120)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=120" alt="Profile Banner">
+</div>
+
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">, I'm Ruhan</h1>
 <h3 align="center">I'm a frontend developer 🖥️</h3>
