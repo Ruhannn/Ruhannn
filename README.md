@@ -4,8 +4,9 @@
 
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">, I'm Ruhan</h1>
-<h3 align="center">I'm a frontend developer 🖥️</h3>
 
+<h3 align="center">I'm a frontend developer 🖥️</h3>
+&nbsp;
 <img align="right" alt="uwu" width="400" length="300" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif">
 
 - 🌱 I’m currently learning **Next.js and TypeScript**
@@ -21,8 +22,7 @@
       <a href="https://discord.gg/wMnVvmCdPT" target="_blank"><img align="center" src="https://img.icons8.com/plasticine/100/discord-new-logo.png" alt="wMnVvmCdPT" height="55" width="55" /></a>
   </div>
 
-</br>
-</br>
+&nbsp;
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruhannn&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/>
