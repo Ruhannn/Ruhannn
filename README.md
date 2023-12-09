@@ -19,7 +19,7 @@
 - <div align="left">
     <h3>Connect with me:</h3> 
      <a href="https://twitter.com/@ruhan_17" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Twitter.svg" alt="@ruhan_17" height="45" width="45" /></a>
-      <a href="https://discord.gg/wMnVvmCdPT" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Discord.svg" alt="wMnVvmCdPT" height="55" width="55" /></a>
+      <a href="https://discord.gg/wMnVvmCdPT" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Discord.svg" alt="wMnVvmCdPT" height="45" width="45" /></a>
   </div>
 
 &nbsp;
