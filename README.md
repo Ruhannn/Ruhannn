@@ -8,17 +8,14 @@
 
 
 
-- 🔭 I'm currently pursuing **my studies.**
 
-- 🌱 I’m currently learning **Node.Js**
-
-- 🤝 I’m looking for help with **Coding**
+- 🌱 I’m currently learning **Next js and TypeScript**
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **kamiayaka09@gmail.com**
 
-- ⚡ Fun fact **I like coffee☕**
+- ⚡ Fun fact **I turn coffee into code** ☕
 
 
 
