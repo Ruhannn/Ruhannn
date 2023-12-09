@@ -7,7 +7,8 @@
 
 <h3 align="center">I'm a frontend developer 🖥️</h3>
 &nbsp;
-<img align="right" alt="uwu" width="400" length="300" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif">
+<img align="right" alt="uwu" width="400" height="300" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif">
+
 
 &nbsp;
 
