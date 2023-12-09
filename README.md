@@ -82,3 +82,7 @@
 [![Discord Presence](https://lanyard.kyrie25.me/api/819191621676695563?bg=282a36&imgStyle=circle&animatioanDuration=4s&waveColor=6272a4&waveSpotifyColor=1db954&hideDiscrim=true&borderRadius=30px&hideBadges=true&useDisplayName=false&idleMessage=%22I%27m%20not%20currently%20doing%20anything!%22)](https://discord.com/users/819191621676695563)
 
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=120&section=footer" alt="Profile Banner">
+</div>
