@@ -78,28 +78,110 @@
 <h2 align="center">Technologies that I know</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html">
+  <img alt="html logo" height="40" src="https://skillicons.dev/icons?i=html&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css">
+  <img alt="css logo" height="40" src="https://skillicons.dev/icons?i=css&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sass">
+  <img alt="sass logo" height="40" src="https://skillicons.dev/icons?i=sass&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind">
+  <img alt="tailwind logo" height="40" src="https://skillicons.dev/icons?i=tailwind&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=jquery">
+  <img alt="jquery logo" height="40" src="https://skillicons.dev/icons?i=jquery&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js">
+  <img alt="js logo" height="40" src="https://skillicons.dev/icons?i=js&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts">
+  <img alt="ts logo" height="40" src="https://skillicons.dev/icons?i=ts&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react">
+  <img alt="react logo" height="40" src="https://skillicons.dev/icons?i=react&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pug">
+  <img alt="pug logo" height="40" src="https://skillicons.dev/icons?i=pug&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs">
+  <img alt="nodejs logo" height="40" src="https://skillicons.dev/icons?i=nodejs&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=express">
+  <img alt="express logo" height="40" src="https://skillicons.dev/icons?i=express&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb">
+  <img alt="mongodb logo" height="40" src="https://skillicons.dev/icons?i=mongodb&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg"> 
+  <img alt="mongoose logo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=firebase">
+  <img alt="firebase logo" height="40" src="https://skillicons.dev/icons?i=firebase&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vitest">
+  <img alt="vitest logo" height="40" src="https://skillicons.dev/icons?i=vitest&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://bestofjs.org/logos/motion.svg">
+  <img alt="framermotion logo" height="32" src="https://bestofjs.org/logos/motion.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs">
+  <img alt="nextjs logo" height="40" src="https://skillicons.dev/icons?i=nextjs&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py">
+  <img alt="py logo" height="40" src="https://skillicons.dev/icons?i=py&theme=light">
+</picture>
 </div>
 <br/>
 <h2 align="center">Tools I use</h2>
-
 <div align="center">
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash">
+  <img alt="bash logo" height="40" src="https://skillicons.dev/icons?i=bash&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bun">
+  <img alt="bun logo" height="40" src="https://skillicons.dev/icons?i=bun&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cloudflare">
+  <img alt="cloudflare logo" height="40" src="https://skillicons.dev/icons?i=cloudflare&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=codepen">
+  <img alt="codepen logo" height="40" src="https://skillicons.dev/icons?i=codepen&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=notion">
+  <img alt="notion logo" height="40" src="https://skillicons.dev/icons?i=notion&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vercel">
+  <img alt="vercel logo" height="40" src="https://skillicons.dev/icons?i=verc&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode">
+  <img alt="vscode logo" height="40" src="https://skillicons.dev/icons?i=vscode&theme=light">
+</picture>
 </div>
 <br/>
 
@@ -107,7 +189,18 @@
 
 ## Current Activities
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/819191621676695563?bg=282a36&imgStyle=circle&animatioanDuration=4s&waveColor=6272a4&waveSpotifyColor=1db954&hideDiscrim=true&borderRadius=30px&hideBadges=true&useDisplayName=false&idleMessage=%22I%27m%20not%20currently%20doing%20anything!%22)](https://discord.com/users/819191621676695563)
+<a href="https://discord.com/users/819191621676695563" target="_blank">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://lanyard.kyrie25.me/api/819191621676695563?bg=282a36&imgStyle=circle&animatioanDuration=4s&waveColor=6272a4&waveSpotifyColor=1db954&hideDiscrim=true&borderRadius=30px&hideBadges=true&useDisplayName=false&idleMessage=%22I%27m%20not%20currently%20doing%20anything!%22"
+    />
+    <img
+      alt="discord logo"
+      src="https://lanyard.kyrie25.me/api/819191621676695563?bg=ffffff&imgStyle=circle&animatioanDuration=4s&waveColor=24292e&waveSpotifyColor=1db954&hideDiscrim=true&borderRadius=30px&hideBadges=true&useDisplayName=false&idleMessage=%22I%27m%20not%20currently%20doing%20anything!%22"
+    />
+  </picture>
+</a>
 
 
 
