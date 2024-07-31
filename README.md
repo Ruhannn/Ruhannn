@@ -52,9 +52,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="
-        https://streak-stats.demolab.com/?user=Ruhannn&theme=tokyonight&hide_border=true
-      "
+      srcset="https://streak-stats.demolab.com/?user=Ruhannn&theme=tokyonight&hide_border=true"
     />
     <img
       alt="GitHub Streak"
@@ -66,9 +64,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="
-        https://github-readme-stats.vercel.app/api/top-langs?username=Ruhannn&theme=tokyonight&hide_border=true
-      "
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ruhannn&theme=tokyonight&hide_border=true"
     />
     <img
       alt="Top Language"
@@ -76,6 +72,7 @@
     />
   </picture>
 </div>
+
 
 
 <h2 align="center">Technologies that I know</h2>
