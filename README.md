@@ -8,17 +8,42 @@
 
 &nbsp;
 
-- 🌱 I’m currently learning **Next.js and TypeScript**
+- 🌱 I’m currently learning **Docker and Figma**
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me: **kamiayaka09@gmail.com**
 
-- ⚡ Fun fact: **I turn coffee into code** ☕
+- ⚡ Fun fact: **:3** 
 - <div align="left">
     <h3>Connect with me:</h3> 
-     <a href="https://twitter.com/@ruhan_17" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Twitter.svg" alt="@ruhan_17" height="45" width="45" /></a>
-      <a href="https://discord.gg/wMnVvmCdPT" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Discord.svg" alt="wMnVvmCdPT" height="45" width="45" /></a>
+<a href="https://twitter.com/@ruhan_17" target="_blank">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://skillicons.dev/icons?i=twitter"
+    />
+    <img
+      alt="twitter logo"
+      height="45"
+      src="https://skillicons.dev/icons?i=twitter&theme=light"
+    />
+  </picture>
+</a>
+
+<a href="https://discord.com/users/819191621676695563" target="_blank">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://skillicons.dev/icons?i=discord"
+    />
+    <img
+      alt="discord logo"
+      height="45"
+      src="https://skillicons.dev/icons?i=discord&theme=light"
+    />
+  </picture>
+</a>
   </div>
 
 &nbsp;
