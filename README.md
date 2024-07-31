@@ -1,9 +1,4 @@
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&fontSize=40&height=300&descAlignY=62&animation=fadeIn&text=Hey%20,%20I%27m%20Ruhan&desc=%20I%27m%20a%20frontend%20developer%20%F0%9F%96%A5%EF%B8%8F">
-   <img alt="Profile Banner" src="https://capsule-render.vercel.app/api?type=waving&color=e6e7ed&fontSize=40&height=300&descAlignY=62&animation=fadeIn&text=Hey%20,%20I%27m%20Ruhan&desc=%20I%27m%20a%20frontend%20developer%20%F0%9F%96%A5%EF%B8%8F">
- </picture>
-</div>
+
 
 &nbsp;
 <img align="right" alt="uwu" width="400" height="300" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif">
