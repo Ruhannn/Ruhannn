@@ -128,8 +128,8 @@
   <img alt="mongodb logo" height="40" src="https://skillicons.dev/icons?i=mongodb&theme=light">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg"> 
-  <img alt="mongoose logo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruhannn/skill-icons/main/icons/Mongoose-Dark.svg"> 
+  <img alt="mongoose logo" height="40" src="https://raw.githubusercontent.com/Ruhannn/skill-icons/main/icons/Mongoose-Light.svg">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=firebase">
@@ -140,8 +140,8 @@
   <img alt="vitest logo" height="40" src="https://skillicons.dev/icons?i=vitest&theme=light">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://bestofjs.org/logos/motion.svg">
-  <img alt="framermotion logo" height="32" src="https://bestofjs.org/logos/motion.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruhannn/skill-icons/main/icons/FramerMotion-Dark.svg">
+  <img alt="framermotion logo" height="40" src="https://raw.githubusercontent.com/Ruhannn/skill-icons/main/icons/FramerMotion-Light.svg">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs">
