@@ -176,7 +176,7 @@
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vercel">
-  <img alt="vercel logo" height="40" src="https://skillicons.dev/icons?i=verc&theme=light">
+  <img alt="vercel logo" height="40" src="https://skillicons.dev/icons?i=vercel&theme=light">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode">
