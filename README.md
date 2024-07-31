@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me: **kamiayaka09@gmail.com**
+- 📫 How to reach me: **Ruhanrouf17@gmail.com**
 
 - ⚡ Fun fact: **:3** 
 - <div align="left">
