@@ -49,10 +49,34 @@
 &nbsp;
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruhannn&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/>
-	<hr/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhannn&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://streak-stats.demolab.com/?user=Ruhannn&theme=tokyonight&hide_border=true
+      "
+    />
+    <img
+      alt="GitHub Streak"
+      src="https://streak-stats.demolab.com/?user=Ruhannn&theme=graywhite&hide_border=true"
+    />
+  </picture>
+  <br />
+  <hr />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://github-readme-stats.vercel.app/api/top-langs?username=Ruhannn&theme=tokyonight&hide_border=true
+      "
+    />
+    <img
+      alt="Top Language"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruhannn&theme=graywhite&hide_border=true"
+    />
+  </picture>
 </div>
+
 
 <h2 align="center">Technologies that I know</h2>
 
