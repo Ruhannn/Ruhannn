@@ -1,6 +1,8 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&fontSize=40&height=300&descAlignY=62&animation=fadeIn&text=Hey%20,%20I%27m%20Ruhan&desc=%20I%27m%20a%20frontend%20developer%20%F0%9F%96%A5%EF%B8%8F" alt="Profile Banner">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&fontSize=40&height=300&descAlignY=62&animation=fadeIn&text=Hey%20,%20I%27m%20Ruhan&desc=%20I%27m%20a%20frontend%20developer%20%F0%9F%96%A5%EF%B8%8F">
+   <img alt="Profile Banner" src="https://capsule-render.vercel.app/api?type=waving&color=e6e7ed&fontSize=40&height=300&descAlignY=62&animation=fadeIn&text=Hey%20,%20I%27m%20Ruhan&desc=%20I%27m%20a%20frontend%20developer%20%F0%9F%96%A5%EF%B8%8F">
+ </picture>
 </div>
 
 &nbsp;
@@ -14,22 +16,22 @@
 
 - 📫 How to reach me: **Ruhanrouf17@gmail.com**
 
-- ⚡ Fun fact: **:3** 
-- <div align="left">
-    <h3>Connect with me:</h3> 
-<a href="https://twitter.com/@ruhan_17" target="_blank">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=twitter"
-    />
-    <img
-      alt="twitter logo"
-      height="45"
-      src="https://skillicons.dev/icons?i=twitter&theme=light"
-    />
-  </picture>
-</a>
+- ⚡ Fun fact: **:3**
+<div align="left">
+      <h3>Connect with me:</h3> 
+  <a href="https://twitter.com/@ruhan_17" target="_blank">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=twitter"
+      />
+      <img
+        alt="twitter logo"
+        height="45"
+        src="https://skillicons.dev/icons?i=twitter&theme=light"
+      />
+    </picture>
+  </a>
 
 <a href="https://discord.com/users/819191621676695563" target="_blank">
   <picture>
@@ -56,7 +58,7 @@
     />
     <img
       alt="GitHub Streak"
-      src="https://streak-stats.demolab.com/?user=Ruhannn&theme=graywhite&hide_border=true"
+      src="https://streak-stats.demolab.com/?user=Ruhannn&theme=graywhite&hide_border=true&background=e6e7ed"
     />
   </picture>
   <br />
@@ -68,12 +70,10 @@
     />
     <img
       alt="Top Language"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruhannn&theme=graywhite&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruhannn&theme=graywhite&hide_border=true&bg_color=e6e7ed"
     />
   </picture>
 </div>
-
-
 
 <h2 align="center">Technologies that I know</h2>
 
@@ -197,12 +197,10 @@
     />
     <img
       alt="discord logo"
-      src="https://lanyard.kyrie25.me/api/819191621676695563?bg=ffffff&imgStyle=circle&animatioanDuration=4s&waveColor=24292e&waveSpotifyColor=1db954&hideDiscrim=true&borderRadius=30px&hideBadges=true&useDisplayName=false&idleMessage=%22I%27m%20not%20currently%20doing%20anything!%22"
+      src="https://lanyard.kyrie25.me/api/819191621676695563?bg=e6e7ed&imgStyle=circle&animatioanDuration=4s&waveColor=24292e&waveSpotifyColor=1db954&hideDiscrim=true&borderRadius=30px&hideBadges=true&useDisplayName=false&idleMessage=%22I%27m%20not%20currently%20doing%20anything!%22"
     />
   </picture>
 </a>
-
-
 
 <div align="center">
  </div>
@@ -216,6 +214,9 @@
 </picture>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=120&section=footer" alt="Profile Banner">
+<div align="center"> 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=120&section=footer">
+   <img alt="Profile footer" src="https://capsule-render.vercel.app/api?type=waving&color=e6e7ed&height=120&section=footer">
+ </picture>
 </div>
