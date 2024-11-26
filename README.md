@@ -91,6 +91,10 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sass">
   <img alt="sass logo" height="40" src="https://skillicons.dev/icons?i=sass&theme=light">
 </picture>
+	<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=styledcomponents">
+  <img alt="styledcomponents logo" height="40" src="https://skillicons.dev/icons?i=sass&theme=light">
+</picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind">
   <img alt="tailwind logo" height="40" src="https://skillicons.dev/icons?i=tailwind&theme=light">
@@ -192,6 +196,10 @@
   <img alt="cloudflare logo" height="40" src="https://skillicons.dev/icons?i=figma&theme=light">
 </picture>
 	<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux">
+  <img alt="linux logo" height="40" src="https://skillicons.dev/icons?i=sass&theme=light">
+</picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ubuntu">
   <img alt="cloudflare logo" height="40" src="https://skillicons.dev/icons?i=ubuntu&theme=light">
 </picture>
