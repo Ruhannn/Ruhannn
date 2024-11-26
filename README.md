@@ -183,6 +183,18 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode">
   <img alt="vscode logo" height="40" src="https://skillicons.dev/icons?i=vscode&theme=light">
 </picture>
+	<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker">
+  <img alt="cloudflare logo" height="40" src="https://skillicons.dev/icons?i=docker&theme=light">
+</picture>
+	<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma">
+  <img alt="cloudflare logo" height="40" src="https://skillicons.dev/icons?i=figma&theme=light">
+</picture>
+	<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ubuntu">
+  <img alt="cloudflare logo" height="40" src="https://skillicons.dev/icons?i=ubuntu&theme=light">
+</picture>
 </div>
 <br/>
 
