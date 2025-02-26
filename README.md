@@ -218,7 +218,7 @@
     />
     <img
       alt="discord logo"
-      src="https://lanyard.kyrie25.dev/api/819191621676695563?decoration=false&useDisplayName=true&animatioanDuration=4s&waveColor=24292e&waveSpotifyColor=1db954&borderRadius=30px&bg=e6e7ed&hideBadges=true&theme=light&idleMessage=;3"
+      src="https://lanyard.kyrie25.dev/api/819191621676695563?decoration=false&useDisplayName=true&animatioanDuration=4s&waveColor=24292e&waveSpotifyColor=24292e&borderRadius=30px&bg=e6e7ed&hideBadges=true&theme=light&idleMessage=;3"
     />
   </picture>
 </a>
