@@ -214,11 +214,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://lanyard.kyrie25.dev/api/819191621676695563?decoration=false&useDisplayName=true&animatioanDuration=4s&waveColor=6272a4&waveSpotifyColor=1db954&borderRadius=30px&hideBadges=true&theme=dark&idleMessage=;3"
+      srcset="https://lanyard.kyrie25.dev/api/819191621676695563?decoration=false&useDisplayName=true&animatioanDuration=4s&waveColor=6272a4&waveSpotifyColor=6272a4&borderRadius=30px&bg=1a1b27&hideBadges=true&theme=dark&idleMessage=;3"
     />
     <img
       alt="discord logo"
-      src="https://lanyard.kyrie25.dev/api/819191621676695563?decoration=false&useDisplayName=true&animatioanDuration=4s&waveColor=24292e&waveSpotifyColor=1db954&borderRadius=30px&hideBadges=true&theme=light&idleMessage=;3"
+      src="https://lanyard.kyrie25.dev/api/819191621676695563?decoration=false&useDisplayName=true&animatioanDuration=4s&waveColor=24292e&waveSpotifyColor=1db954&borderRadius=30px&bg=e6e7ed&hideBadges=true&theme=light&idleMessage=;3"
     />
   </picture>
 </a>
