@@ -132,8 +132,16 @@
   <img alt="mongodb logo" height="40" src="https://skillicons.dev/icons?i=mongodb&theme=light">
 </picture>
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres">
+  <img alt="cloudflare logo" height="40" src="https://skillicons.dev/icons?i=postgres&theme=light">
+</picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruhannn/skill-icons/main/icons/Mongoose-Dark.svg"> 
   <img alt="mongoose logo" height="40" src="https://raw.githubusercontent.com/Ruhannn/skill-icons/main/icons/Mongoose-Light.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=prisma">
+  <img alt="firebase logo" height="40" src="https://skillicons.dev/icons?i=prisma&theme=light">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=firebase">
@@ -154,6 +162,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py">
   <img alt="py logo" height="40" src="https://skillicons.dev/icons?i=py&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker">
+  <img alt="cloudflare logo" height="40" src="https://skillicons.dev/icons?i=docker&theme=light">
 </picture>
 </div>
 <br/>
@@ -187,11 +199,11 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode">
   <img alt="vscode logo" height="40" src="https://skillicons.dev/icons?i=vscode&theme=light">
 </picture>
-	<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker">
-  <img alt="cloudflare logo" height="40" src="https://skillicons.dev/icons?i=docker&theme=light">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=webstorm">
+  <img alt="cloudflare logo" height="40" src="https://skillicons.dev/icons?i=webstorm&theme=light">
 </picture>
-	<picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma">
   <img alt="cloudflare logo" height="40" src="https://skillicons.dev/icons?i=figma&theme=light">
 </picture>
@@ -203,6 +215,11 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ubuntu">
   <img alt="cloudflare logo" height="40" src="https://skillicons.dev/icons?i=ubuntu&theme=light">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redhat">
+  <img alt="cloudflare logo" height="40" src="https://skillicons.dev/icons?i=redhat&theme=light">
+</picture>
+
 </div>
 <br/>
 
