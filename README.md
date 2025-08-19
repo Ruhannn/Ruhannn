@@ -383,9 +383,7 @@
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="
-            https://go-skill-icons.vercel.app/api/icons?i=githubactions
-          " />
+          srcset="https://go-skill-icons.vercel.app/api/icons?i=githubactions" />
         <img
           alt="githubactions logo"
           height="40"
