@@ -28,6 +28,35 @@
       <li>📫 How to reach me: <strong>Ruhanrouf17@gmail.com</strong></li>
       <li>⚡ Fun fact: <strong>:3</strong></li>
     </ul>
+    <h3>Connect with me:</h3>
+
+<a href="https://twitter.com/@ruhan_17">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=twitter"
+      />
+      <img
+        alt="twitter logo"
+        height="45"
+        src="https://skillicons.dev/icons?i=twitter&theme=light"
+      />
+    </picture>
+</a>
+<a href="https://discord.com/users/819191621676695563">
+ <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://skillicons.dev/icons?i=discord"
+    />
+    <img
+      alt="discord logo"
+      height="45"
+      src="https://skillicons.dev/icons?i=discord&theme=light"
+    />
+  </picture>
+</a>
+
   </div>
 
   <!-- fake space -->
