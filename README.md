@@ -43,16 +43,15 @@
 
   <!-- github streak -->
   <div align="center">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="
-          https://streak-stats.demolab.com/?user=Ruhannn&theme=tokyonight&hide_border=true
-        " />
-      <img
-        alt="GitHub Streak"
-        src="https://streak-stats.demolab.com/?user=Ruhannn&theme=graywhite&hide_border=true&background=e6e7ed" />
-    </picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com/?user=Ruhannn&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Ruhannn&theme=graywhite&hide_border=true&background=e6e7ed"
+    alt="GitHub Streak" />
+</picture>
+
 
 <hr />
 
@@ -60,9 +59,7 @@
 <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="
-          https://github-readme-stats.vercel.app/api/top-langs?username=Ruhannn&theme=tokyonight&hide_border=true
-        " />
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ruhannn&theme=tokyonight&hide_border=true" />
       <img
         alt="Top Language"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruhannn&theme=graywhite&hide_border=true&bg_color=e6e7ed" />
@@ -517,9 +514,7 @@
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="
-            https://lanyard.kyrie25.dev/api/819191621676695563?decoration=false&useDisplayName=true&animatioanDuration=4s&waveColor=6272a4&waveSpotifyColor=6272a4&borderRadius=30px&bg=1a1b27&hideBadges=true&theme=dark&idleMessage=;3
-          " />
+          srcset="https://lanyard.kyrie25.dev/api/819191621676695563?decoration=false&useDisplayName=true&animatioanDuration=4s&waveColor=6272a4&waveSpotifyColor=6272a4&borderRadius=30px&bg=1a1b27&hideBadges=true&theme=dark&idleMessage=;3" />
         <img
           alt="discord logo"
           src="https://lanyard.kyrie25.dev/api/819191621676695563?decoration=false&useDisplayName=true&animatioanDuration=4s&waveColor=24292e&waveSpotifyColor=24292e&borderRadius=30px&bg=e6e7ed&hideBadges=true&idleMessage=;3" />
@@ -530,14 +525,10 @@
 <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="
-          https://raw.githubusercontent.com/ruhannn/ruhannn/output/snake-dark.svg
-        " />
+        srcset="https://raw.githubusercontent.com/ruhannn/ruhannn/output/snake-dark.svg" />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="
-          https://raw.githubusercontent.com/ruhannn/ruhannn/output/snake.svg
-        " />
+        srcset="https://raw.githubusercontent.com/ruhannn/ruhannn/output/snake.svg" />
       <img
         alt="github contribution grid snake animation"
         src="https://raw.githubusercontent.com/ruhannn/ruhannn/output/snake.svg" />
@@ -547,9 +538,7 @@
 <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="
-          https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=120&section=footer
-        " />
+        srcset="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=120&section=footer" />
       <img
         alt="Profile footer"
         src="https://capsule-render.vercel.app/api?type=waving&color=e6e7ed&height=120&section=footer" />
