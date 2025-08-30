@@ -88,10 +88,10 @@
 <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ruhannn&theme=tokyonight&hide_border=true" />
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ruhannn&theme=tokyonight&hide_border=true&hide=glsl" />
       <img
         alt="Top Language"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruhannn&theme=graywhite&hide_border=true&bg_color=e6e7ed" />
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruhannn&theme=graywhite&hide_border=true&bg_color=e6e7ed&hide=glsl" />
     </picture>
 
 <!-- tech/skills -->
