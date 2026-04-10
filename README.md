@@ -23,9 +23,9 @@
   <!-- ul -->
   <div align="left">
     <ul>
-      <li>🌱 I’m currently learning <strong>Docker and Figma</strong></li>
+      <li>🌱 I’m currently learning <strong>SOMETHING</strong></li>
       <li>💬 Ask me about <strong>Anything</strong></li>
-      <li>📫 How to reach me: <strong>Ruhanrouf17@gmail.com</strong></li>
+      <li>📫 How to reach me: <strong>ruhanrouf@proton.me</strong></li>
       <li>⚡ Fun fact: <strong>:3</strong></li>
     </ul>
     <h3>Connect with me:</h3>
