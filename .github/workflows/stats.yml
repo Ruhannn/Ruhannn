@@ -1,0 +1,53 @@
+name: Update streak stats
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate dark streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true
+          path: profile/streak-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate light streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=default&hide_border=true
+          path: profile/streak-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate dark top-langs
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate light top-langs
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=default&hide_border=true
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak-dark.svg profile/streak-light.svg profile/top-langs-dark.svg profile/top-langs-light.svg
+          git commit -m "Update stats" || exit 0
+          git push
