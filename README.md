@@ -75,9 +75,9 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=Ruhannn&theme=tokyonight&hide_border=true" />
+    srcset="https://raw.githubusercontent.com/Ruhannn/Ruhannn/refs/heads/main/profile/streak-dark.svg" />
   <img
-    src="https://streak-stats.demolab.com/?user=Ruhannn&theme=graywhite&hide_border=true&background=e6e7ed"
+    src="https://raw.githubusercontent.com/Ruhannn/Ruhannn/refs/heads/main/profile/streak-light.svg"
     alt="GitHub Streak" />
 </picture>
 
