@@ -88,10 +88,10 @@
 <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ruhannn&theme=tokyonight&hide_border=true&hide=glsl" />
+        srcset="https://raw.githubusercontent.com/Ruhannn/Ruhannn/refs/heads/main/profile/top-langs-dark.svg" />
       <img
         alt="Top Language"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruhannn&theme=graywhite&hide_border=true&bg_color=e6e7ed&hide=glsl" />
+        src="https://raw.githubusercontent.com/Ruhannn/Ruhannn/refs/heads/main/profile/top-langs-light.svg" />
     </picture>
 
 <!-- tech/skills -->
